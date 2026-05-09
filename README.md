@@ -37,8 +37,11 @@ Epoxy \<3<br>
 ![Picture.](./Pictures/15.jpg)<br>
 ![Picture.](./Pictures/16.jpg)<br>
 ![Picture.](./Pictures/17.jpg)<br>
+Time for the extension cable. The connector legs were too small and fragile to be soldered one at a time (one broken connector proved that), so had to try something else.<br>
 ![Picture.](./Pictures/18.jpg)<br>
+Glued the sides together. This mess turns into beautiful routing.<br>
 ![Picture.](./Pictures/19.jpg)<br>
+The 5.1K pull-down resistors in CC pins advertise max 3A (\@5V) power draw. D+ and D- lines of opposite sides can be combined when using USB 2.0 speeds.<br>
 ![Picture.](./Pictures/20.jpg)<br>
 ![Picture.](./Pictures/21.jpg)<br>
 ![Picture.](./Pictures/22.jpg)<br>
