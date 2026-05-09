@@ -5,7 +5,7 @@ There's the complete 3D model in a FreeCAD file, the exported parts in STL files
 <br>
 <br>
 # Build log
-![Arrived.](./Pictures/01.jpeg)<br>
+![Arrived.](./Pictures/01.jpg)<br>
 
 
 
