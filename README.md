@@ -7,19 +7,33 @@ There's the complete 3D model in a FreeCAD file, the exported parts in STL files
 # Build log
 Arrived.<br>
 ![Picture.](./Pictures/01.jpg)<br>
+Using Kapton tape to hold the MillMax sockets and components in place.<br>
 ![Picture.](./Pictures/02.jpg)<br>
+Soldered.<br>
 ![Picture.](./Pictures/03.jpg)<br>
+Adding spacing between the plates to make a tight stack.<br>
 ![Picture.](./Pictures/04.jpg)<br>
+It's working, yay! But... is it perfect?<br>
 ![Picture.](./Pictures/05.jpg)<br>
+Making it lower by using pins instead of a pin header on the controller daughterboard.<br>
 ![Picture.](./Pictures/06.jpg)<br>
+Replace TRRS connector: use 2x2 header pins/sockets with 0.1" spacing (Dupont connectors). Only 3 contacts were needed, but in hindsight, using all 4 contacts would have been better. The tolerances turned out to be much better than anticipated. Also didn't have a 3D-printer at the time, it would have helped a lot. That's why there's not any jigs modeled, sorry.<br>
 ![Picture.](./Pictures/07.jpg)<br>
+Soldered the wires.<br>
 ![Picture.](./Pictures/08.jpg)<br>
+Making the pin receptacle. Inserted the pins into the sockets through crepe masking tape and poured some epoxy glue on top. Then filed down to the right shape.<br>
 ![Picture.](./Pictures/09.jpg)<br>
+Shielding from 0.005"/0.127mm copper foil sheet.<br>
 ![Picture.](./Pictures/10.jpg)<br>
+Finished cable with plugs at the ends: bent and glued the shielding in place.<br>
 ![Picture.](./Pictures/11.jpg)<br>
+Used the plugs as jigs for the receptacle shieldings.<br>
 ![Picture.](./Pictures/12.jpg)<br>
+Used masking tape to ensure enough clearance for the plugs to fit. It was maybe even a bit too much.<br>
 ![Picture.](./Pictures/13.jpg)<br>
+Aligned the connectors.<br>
 ![Picture.](./Pictures/14.jpg)<br>
+Epoxy \smaller 3<br>
 ![Picture.](./Pictures/15.jpg)<br>
 ![Picture.](./Pictures/16.jpg)<br>
 ![Picture.](./Pictures/17.jpg)<br>
