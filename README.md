@@ -33,7 +33,7 @@ Used masking tape to ensure enough clearance for the plugs to fit. It was maybe 
 ![Picture.](./Pictures/13.jpg)<br>
 Aligned the connectors.<br>
 ![Picture.](./Pictures/14.jpg)<br>
-Epoxy \smaller 3<br>
+Epoxy \<3<br>
 ![Picture.](./Pictures/15.jpg)<br>
 ![Picture.](./Pictures/16.jpg)<br>
 ![Picture.](./Pictures/17.jpg)<br>
