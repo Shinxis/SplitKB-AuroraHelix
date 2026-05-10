@@ -81,7 +81,7 @@ The wires ended up being 15mm too long. At least they fit.<br>
 Adding shield. Aluminium foil had too weak connection when just wrapped around and it couldn't be soldered.<br>
 <br>
 ![Picture.](./Pictures/27.jpg)<br>
-The ground wire is unjacketed and connects to the aluminium foil just enough. The Kapton tape was too thick.
+The ground wire is unjacketed and connects to the aluminium foil just enough. The Kapton tape was too thick.<br>
 <br>
 ![Picture.](./Pictures/28.jpg)<br>
 Growing the blob with epoxy. The link cable connector is about to be shut.<br>
