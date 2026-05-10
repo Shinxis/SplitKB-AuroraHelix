@@ -72,9 +72,10 @@ Used a LOT of flux and solder blobs with a bit too large soldering iron tip, the
 ![Picture.](./Pictures/23.jpg)<br>
 <br>
 ![Picture.](./Pictures/24.jpg)<br>
-The client end plug connector.
+The client end plug connector.<br>
 <br>
 ![Picture.](./Pictures/25.jpg)<br>
+The wires ended up being 15mm too long. At least they fit.<br>
 <br>
 ![Picture.](./Pictures/26.jpg)<br>
 Adding shield. Aluminium foil had too weak connection when just wrapped around and it couldn't be soldered.<br>
