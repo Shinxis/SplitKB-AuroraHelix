@@ -15,7 +15,7 @@ Adding spacing between the plates to make a tight stack.<br>
 ![Picture.](./Pictures/04.jpg)<br>
 It's working, yay! But... is it perfect?<br>
 ![Picture.](./Pictures/05.jpg)<br>
-Making it lower. Used pins instead of a pin header on the controller daughterboard. Changed the components to surface mount versions.<br>
+Making it lower. Used pins instead of a pin header on the controller daughterboard. Changed the diodes and resistors to surface-mount versions. Scraped new pads for the I2C pull-up resistors on the bottom side.<br>
 ![Picture.](./Pictures/06.jpg)<br>
 Replace TRRS connector: use 2x2 header pins/sockets with 0.1" spacing (Dupont connectors). Only 3 contacts were needed, but in hindsight, using all 4 contacts would have been better. The tolerances turned out to be much better than anticipated. Also didn't have a 3D-printer at the time, it would have helped a lot. That's why there's not any jigs modeled, sorry.<br>
 ![Picture.](./Pictures/07.jpg)<br>
