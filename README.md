@@ -9,7 +9,7 @@ There's the complete 3D model in a FreeCAD file, the exported parts in STL files
 Arrived.<br>
 <br>
 ![Picture.](./Pictures/02.jpg)<br>
-Using Kapton tape to hold the MillMax sockets and components in place.<br>
+Low row cut off. Using Kapton tape to hold the MillMax sockets and components in place.<br>
 <br>
 ![Picture.](./Pictures/03.jpg)<br>
 Soldered.<br>
@@ -67,7 +67,7 @@ The host facing end receptacle connector. The 5.1K pull-down resistors in CC pin
 Ready to solder to the connectors.<br>
 <br>
 ![Picture.](./Pictures/22.jpg)<br>
-Used a LOT of flux and solder blobs with a bit too large soldering iron tip, then cleaned everything with IPA.
+Used a LOT of flux and solder blobs with a bit too large soldering iron tip, then cleaned everything with IPA.<br>
 <br>
 ![Picture.](./Pictures/23.jpg)<br>
 <br>
@@ -93,7 +93,9 @@ The connector blob gets its dimensions with trial and error, epoxy and filing. I
 The blob screwed in place. Kapton tape on the main PCB and on the underside of the controller.<br>
 <br>
 ![Picture.](./Pictures/31.jpg)<br>
-Printed the mold and poured epoxy to make the bottom plate. Gosh, PLA was hard to peel off.<br>
+ Printed the mold and poured epoxy to make the bottom plate. Gosh, PLA was hard to peel off. <br>
+<br>
+The rest of the prints are not that interesting. Almost one spool's worth calibration, trial and error (my first print project ever). 0.1 ... 0.2mm was a good spacing for nested or facing objects. Ironing was best done in the direction of the layer lines. Always first preview what the printer will actually do. <br>
 <br>
 ![Picture.](./Pictures/32.jpg)<br>
 First version of the bottom plate. Something caused matt stripes/waves, likely residue from dishwashing detergent. To be continued...<br>
