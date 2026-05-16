@@ -16,9 +16,11 @@ There's the complete 3D model in a FreeCAD file, the exported parts in STL files
 <br>
 <br>
 <br>
+
 # Build log
-![Picture.](./Pictures/01.jpg)<br>
-Arrived.<br>
+![Picture.](./Pictures/01.jpg)
+Arrived.
+
 <br>
 ![Picture.](./Pictures/02.jpg)<br>
 Low row cut off. Using Kapton tape to hold the MillMax sockets and components in place.<br>
