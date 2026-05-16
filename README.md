@@ -8,7 +8,10 @@ Here are the 3D design files for the keyboard case, including the
 - bottom plates,
 - and also molds for casting the bottom plates from epoxy.
 
-There's the complete 3D model in a FreeCAD file, the exported parts in STL files, and also Bambu Studio project files ready to print on a bambu printer.
+The files are:
+- The complete 3D model in a FreeCAD file
+- The exported parts in STL files
+- Bambu Studio project files ready to print on a bambu printer.
 
 
 # Build log
