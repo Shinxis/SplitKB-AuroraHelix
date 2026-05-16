@@ -64,7 +64,7 @@ Epoxy \<3
 ![Picture.](./Pictures/16.jpg)
 
 ![Picture.](./Pictures/17.jpg)
-Time for the extension cable. The connector legs were too small and fragile to be soldered one at a time (one broken connector proved that), so had to try something else.
+Time for the USB-C extension cable. The connector legs were too small and fragile to be soldered one at a time (one broken connector proved that), so had to try something else.
 
 ![Picture.](./Pictures/18.jpg)
 
