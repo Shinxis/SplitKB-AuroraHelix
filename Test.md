@@ -6,5 +6,5 @@ Paragraph
 - b
 - c
 
-  continue
+continue
   
