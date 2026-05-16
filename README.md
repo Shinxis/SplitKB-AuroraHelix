@@ -95,7 +95,7 @@ The blob screwed in place. Kapton tape on the main PCB and on the underside of t
 ![Picture.](./Pictures/31.jpg)<br>
  Printed the mold and poured epoxy to make the bottom plate. Gosh, PLA was hard to peel off. <br>
 <br>
-The rest of the prints are not that interesting. Almost one spool's worth calibration, trial and error (my first print project ever). 0.1 ... 0.2mm was a good spacing for nested or facing objects. Ironing was best done in the direction of the layer lines. Always first preview what the printer will actually do. <br>
+The rest of the prints are not that interesting. Almost one spool's worth of calibration, trial and error (my first print project ever). 0.1 ... 0.2mm was a good spacing for nested or facing objects. Ironing was best done in the direction of the layer lines. Always first preview what the printer will actually do. <br>
 <br>
 ![Picture.](./Pictures/32.jpg)<br>
 First version of the bottom plate. Something caused matt stripes/waves, research is still in progress. To be continued...<br>
