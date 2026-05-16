@@ -2,13 +2,13 @@
 An ergonomic split keyboard with ortholinear grid layout, using Aurora Helix from [splitkb.com](https://splitkb.com)
 
 
-Here are the 3D design files for the keyboard case, including the
+Here are the 3D design files for the keyboard case, including the:
 - top plates,
 - controller covers,
 - bottom plates,
-- and also molds for casting the bottom plates from epoxy.
+- bottom plate molds for casting them from epoxy.
 
-The files are:
+The files types are:
 - The complete 3D model in a FreeCAD file
 - The exported parts in STL files
 - Bambu Studio project files ready to print on a bambu printer.
