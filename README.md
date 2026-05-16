@@ -85,7 +85,7 @@ Used a LOT of flux and solder blobs with a bit too large soldering iron tip, the
 
 ![Picture.](./Pictures/24.jpg)
 The client end plug connector.
-<br>
+
 ![Picture.](./Pictures/25.jpg)
 The wires ended up being 15mm too long. At least they fit.
 
@@ -101,13 +101,13 @@ Growing the blob with epoxy. The link cable connector is about to be shut.
 ![Picture.](./Pictures/29.jpg)
 The connector blob gets its dimensions with trial and error, epoxy and filing. If I ever need to do this again, I will definitely use a 3D printer.
 
-![Picture.](./Pictures/30.jpg)<br>
+![Picture.](./Pictures/30.jpg)
 The blob screwed in place. Kapton tape on the main PCB and on the underside of the controller.
 
-![Picture.](./Pictures/31.jpg)<br>
- Printed the mold and poured epoxy to make the bottom plate. Gosh, PLA was hard to peel off.
+![Picture.](./Pictures/31.jpg)
+Printed the mold and poured epoxy to make the bottom plate. Gosh, PLA was hard to peel off.
 
-The rest of the prints are not that interesting. Almost one spool's worth of calibration, trial and error (my first print project ever). 0.1 ... 0.2mm was a good spacing for nested or facing objects. Ironing was best done in the direction of the layer lines. Always first preview what the printer will actually do.
+About the rest of the prints... Almost one spool's worth of calibration, trial and error (my first print project ever). 0.1 ... 0.2mm was a good spacing for nested or facing objects. Ironing was best done in the direction of the layer lines. Always first preview what the printer will actually do.
 
 ![Picture.](./Pictures/32.jpg)
 First version of the bottom plate. Something caused matt stripes/waves, research is still in progress. To be continued...
