@@ -13,7 +13,9 @@ The files types are:
 - The exported parts in STL files
 - Bambu Studio project files ready to print on a bambu printer.
 
-
+<br>
+<br>
+<br>
 
 # Build log
 ![Picture.](./Pictures/01.jpg)
