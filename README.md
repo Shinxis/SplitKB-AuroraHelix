@@ -1,5 +1,5 @@
 # SplitKB Aurora Helix
-An ergonomic split keyboard with ortholinear grid layout, using Aurora Helix from splitkb.com(https://splitkb.com)
+An ergonomic split keyboard with ortholinear grid layout, using Aurora Helix from [splitkb.com](https://splitkb.com)
 
 
 Here are the 3D design files for the keyboard case, including the
