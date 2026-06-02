@@ -110,7 +110,7 @@ Printed the mold and poured epoxy to make the bottom plate. Gosh, PLA was hard t
 About the rest of the prints... Almost one spool's worth of calibration, trial and error (my first print project ever). 0.1 ... 0.2mm was a good spacing for nested or facing objects. Ironing was best done in the direction of the layer lines. Always first preview what the printer will actually do.
 
 ![Picture.](./Pictures/32.jpg)
-First version of the bottom plate. Something caused matt stripes/waves, research is still in progress. To be continued...
+First version of the bottom plate. The matt stripes/waves are caused by isopropyl alcohol dissolving something off the PLA surface. Also, tearing the epoxy off the porous surface of the PLA material and the stringed print surface leave marks. Using silicone oil as releasing agent helped marginally, but created issues of its own. Wax may help next... It would be best to seal the print surface with something.
 
 
 
